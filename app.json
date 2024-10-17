@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "Xpentra",
+    "slug": "Xpentra",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/Xpentra.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/Xpentra.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/Xpentra.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/Xpentra.png"
+    }
+  }
+}
