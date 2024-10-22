@@ -18,10 +18,16 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/Xpentra.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.zaidshaikh.Xpentra"
     },
     "web": {
       "favicon": "./assets/Xpentra.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "1d9ad2c5-c5fe-41e5-94eb-25e2229c0920"
+      }
     }
   }
 }
