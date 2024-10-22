@@ -19,7 +19,7 @@
         "foregroundImage": "./assets/Xpentra.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.zaidshaikh.Xpentra"
+      "package": "com.cezanne.Xpentra"
     },
     "web": {
       "favicon": "./assets/Xpentra.png"
